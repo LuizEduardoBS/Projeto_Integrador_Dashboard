@@ -263,6 +263,10 @@ p {
   font-family: "Times New Roman", Times, serif;
 }
 
+span {
+  font-size: 15px;
+}
+
 /*Tabela Ficha Técnica*/
 .descricao {
   display: flex;
